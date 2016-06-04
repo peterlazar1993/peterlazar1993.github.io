@@ -13,7 +13,7 @@ It is a collection of MOOCs that you take sequentially. They are taught by profe
 
 > As of now there are 37 courses, without counting the specialisations.
 
-The curriculum might appear daunting to most but the trick is to take them one by one, sequentially. They also recommend on taking the [How to Learn][2] MOOC so that you can employ the best learning techniques that works for you.
+The curriculum might appear daunting to most, but the trick is to take them one by one, sequentially. They also recommend on taking the [Learning How to Learn][2] MOOC so that you can employ the best learning techniques that works for you.
 I have started the first course Introduction to Computer Science - CS50 almost thrice from the year they started offering it online, but dropped off around the 3 week mark. This in no terms speaks about the course itself. I think CS50 is a phenomenal course and the best intro to CS you can have. It’s the lack of deliberate effort to do the coursework and put in time that caused me to drop off. Hopefully I will overcome those and soldier on through the curriculum.
 
 Stay tuned to here about my progress and what I learn from these courses.
